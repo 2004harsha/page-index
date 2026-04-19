@@ -1,0 +1,4 @@
+openai>=1.0.0
+pymupdf>=1.23.0       # PDF ingestion (recommended)
+pdfminer.six>=20221105 # PDF fallback
+python-dotenv>=1.0.0  # .env support
